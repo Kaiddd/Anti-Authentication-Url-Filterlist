@@ -2,4 +2,4 @@
 ! Version: v1.0
 ! Description: See https://www.youtube.com/watch?v=Y9Fzv0a9tPA for an explaination of why this is needed
 ! Homepage: https://github.com/Kaiddd/Anti-Authentication-Url-Filterlist
-/https?:\/\/[^\/]*?@/$document,important
+/^https?:\/\/[^\/]*?@/$document,important
